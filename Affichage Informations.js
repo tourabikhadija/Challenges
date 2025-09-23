@@ -13,3 +13,5 @@ console.log ("prenom:" + prenom);
 console.log ("age:" + age);
 console.log ("sexe:" + sexe);
 console.log ("Numéro_de_téléphone:" + tel);
+
+
